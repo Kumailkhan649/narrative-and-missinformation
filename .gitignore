@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+models/*
+!models/.gitkeep
+.venv313/
+backup_before_v031_*/
+backup_before_pg_tests_*/
